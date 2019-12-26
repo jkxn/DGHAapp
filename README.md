@@ -1,16 +1,5 @@
-# dgha
+# dghaapp
 
-A new Flutter project.
+A flutter app created for the Dog Guide Handlers Australia, an organisation created to help those with assistance dogs. 
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This app includes information about the organisation, legislation regarding assistance dogs and public places, functionality to translate this legislation into several common languages in Australia, a form to sign up for a DGHA membership, as well as a review section for users with assistance dogs to review businesses regarding their inclusiveness and accessibility towards those with assistance dogs.
